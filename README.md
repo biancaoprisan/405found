@@ -1,3 +1,3 @@
 # TW405Found
 
-Proiect acordare note pentru proiecte
+Proiect Acordare note pentru proiecte
